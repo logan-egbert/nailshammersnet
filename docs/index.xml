@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nails and Hammers</title>
+    <link>/</link>
+    <description>Recent content on Nails and Hammers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2017 18:34:38 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Fri, 29 Sep 2017 18:34:38 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Would you like to contact me about setting up a shoot?
+Are you a Jiu Jitsu related brand looking to sponsor the project?
+Fill in the form below or click on the email icon on the upper right of the page.
+ Your name
+ 
+ Your email
+ 
+ Your message
+  
+
+ </description>
+    </item>
+    
+    <item>
+      <title>Faq</title>
+      <link>/faq/</link>
+      <pubDate>Fri, 29 Sep 2017 18:34:34 -0700</pubDate>
+      
+      <guid>/faq/</guid>
+      <description>Are you only shooting black belts/teachers? No! I am open to shooting anyone who wants to take part in Nails and Hammers. Right now, I&amp;rsquo;m only shooting in the Portland Metro area.
+
+How long does a shoot usually take? It takes me about 20 minutes to get set up, if I need to use lighting. From there, most shoots have taken somewhere between 30-40 minutes.
+
+Does it cost me anything to take part?</description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>/vision/</link>
+      <pubDate>Fri, 29 Sep 2017 18:34:29 -0700</pubDate>
+      
+      <guid>/vision/</guid>
+      <description>While Nails and Hammers is ostensibly just a photo project, there is a larger vision that drives the project.
+The goal for each city shot for Nails and Hammers is to produce a book with photos as well as short essays by a selection of practitioners from that city.
+Costs for producing the book itself (printing, shipping, etc.) will be calculated ahead of production and all of the profits from the sale of the book will be donated, in full, to a nonprofit community organization.</description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>/about/</link>
+      <pubDate>Fri, 29 Sep 2017 18:34:06 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>The name &amp;lsquo;Nails and Hammers&amp;rsquo; comes from a quote from Renzo Gracie, one of the Jiu Jitsu&amp;rsquo;s most revered figures, who said:
+ &amp;ldquo;Sometimes you are the hammer, and sometimes you are the nail.
+The secret of this sport is, while you’re the nail, hang in there, let them hit you, until the day you become the hammer, then you smash them back!&amp;rdquo;
+ In short, Nails and Hammers is a long-term portrait project focused on grapplers and grappling communities across the United States.</description>
+    </item>
+    
+  </channel>
+</rss>
