@@ -4,6 +4,7 @@ title = "Nails and Hammers"
 theme = "minimal"
 publishDir = "docs"
 relativeURLs = true
+canonifyURLs = true
 
 [params]
     author = "Calin Tataru"
