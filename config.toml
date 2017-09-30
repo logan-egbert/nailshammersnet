@@ -17,7 +17,7 @@ publishDir = "docs"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
-    url = "/nailshammersnet"
+    url = "/index.html"
     name = "Home"
     weight = 1
 
