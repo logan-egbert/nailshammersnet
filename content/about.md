@@ -1,7 +1,8 @@
 ---
-title: "Post"
+title: "About"
 date: 2017-09-29T18:34:06-07:00
 draft: false
+permalink: /about/
 ---
 
 The name 'Nails and Hammers' comes from a quote from Renzo Gracie, one of the Jiu Jitsu's most revered figures, who said:

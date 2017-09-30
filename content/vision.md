@@ -2,6 +2,7 @@
 title: "Vision"
 date: 2017-09-29T18:34:29-07:00
 draft: false
+permalink: /vision/
 ---
 
 While Nails and Hammers is ostensibly just a photo project, there is a larger vision that drives the project.

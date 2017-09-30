@@ -2,6 +2,7 @@
 title: "Faq"
 date: 2017-09-29T18:34:34-07:00
 draft: false
+permalink: /faq/
 ---
 
 ### Are you only shooting black belts/teachers?

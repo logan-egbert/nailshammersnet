@@ -2,6 +2,7 @@
 title: "Contact"
 date: 2017-09-29T18:34:38-07:00
 draft: false
+permalink: /contact/
 ---
 
 Would you like to contact me about setting up a shoot?
